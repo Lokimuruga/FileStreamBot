@@ -56,7 +56,8 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
 
 
 ```py
-git clone https://github.com/Avipatilpro/FileStreamBot
+git clone https://github.com/a
+vipatilpro/FileStreamBot
 cd FileStreamBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
